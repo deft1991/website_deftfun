@@ -1,0 +1,3 @@
+[submodule "business-card/themes/hugo-coder"]
+	path = business-card/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder
