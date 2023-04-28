@@ -1,8 +1,8 @@
 +++
 title = "About"
-description = "Few words about my self"
+description = "Few words about DEFT FUN INC."
 date = "2022-11-08T12:43:38+03:00"
-aliases = ["about", "about-us", "about-kirill", "contact"]
+aliases = ["about", "about-us", "about-deftfun", "contact"]
 +++
 
 

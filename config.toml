@@ -10,22 +10,22 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "kksudo"
+disqusShortname = "deftfun"
 enableGitInfo = true
 
 [params]
-author = "Kirill Kazakov"
-info = ["Full Stack DevOps and Magician"]
-description = "Kirill Kazakov's personal page"
-keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
-gravatar = "k@kazakov.xyz"
+author = "DEFT FUN INC."
+info = ["We are making games"]
+description = "DEFT FUN's web page"
+keywords = "businesscard,company,games,deftfun,sergei,golitsyn"
+gravatar = "deft1991@gmail.com"
 
 since = 2010
 enableTwemoji = true
 colorScheme = "auto"
 hidecolorschemetoggle = false
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/kksudo/kazakov.xyz/tree/"
+commit = "https://github.com/deft1991/website_deftfun/tree/"
 powered_by = true
 # Series see also post count
 maxSeeAlsoItems = 5
@@ -51,7 +51,7 @@ target = "_blank"
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 3
-url = "https://www.instagram.com/kk_sudo/"
+url = "https://www.instagram.com/deft_fun/"
 target = "_blank"
 [[params.social]]
 name = "Linkedin"
@@ -60,10 +60,10 @@ weight = 5
 url = "https://www.linkedin.com/in/kazakovk/"
 target = "_blank"
 [[params.social]]
-name = "k@kazakov.xyz"
+name = "deft@deftfun.tech"
 icon = "fa fa-envelope fa-2x"
 weight = 6
-url = "mailto:k@kazakov.xyz"
+url = "mailto:deft@deftfun.tech"
 target = "_blank"
 
 # Menu links
