@@ -36,29 +36,35 @@ author = "authors"
 
 # Social links
 [[params.social]]
-name = "GooglePlayStore"
-icon = "/images/logos/google-play.svg"
+name = "Google Play Store"
+icon = "fa fa-play"
 weight = 1
 url = "https://play.google.com/store/apps/details?id=com.deft.aihealth"
 target = "_blank"
 [[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab fa-2x"
+name = "Facebook"
+icon = "fa fa-facebook"
 weight = 2
-url = "https://gitlab.com/kksudo"
+url = "https://www.facebook.com/profile.php?id=100005421847157"
 target = "_blank"
+#[[params.social]]
+#name = "Gitlab"
+#icon = "fa fa-twitter"
+#weight = 3
+#url = "https://gitlab.com/kksudo"
+#target = "_blank"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
-weight = 3
+weight = 4
 url = "https://www.instagram.com/deft_fun/"
 target = "_blank"
-[[params.social]]
-name = "Linkedin"
-icon = "fa fa-linkedin fa-2x"
-weight = 5
-url = "https://www.linkedin.com/in/kazakovk/"
-target = "_blank"
+#[[params.social]]
+#name = "Linkedin"
+#icon = "fa fa-linkedin fa-2x"
+#weight = 5
+#url = "https://www.linkedin.com/in/kazakovk/"
+#target = "_blank"
 [[params.social]]
 name = "deft@deftfun.tech"
 icon = "fa fa-envelope fa-2x"
