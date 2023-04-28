@@ -37,7 +37,7 @@ author = "authors"
 # Social links
 [[params.social]]
 name = "GooglePlayStore"
-icon = "/images/logos/google_play_store.png"
+icon = "/images/logos/google-play.svg"
 weight = 1
 url = "https://play.google.com/store/apps/details?id=com.deft.aihealth"
 target = "_blank"
