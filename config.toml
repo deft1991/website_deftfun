@@ -20,7 +20,7 @@ description = "DEFT FUN's web page"
 keywords = "businesscard,company,games,deftfun,sergei,golitsyn"
 gravatar = "deft1991@gmail.com"
 
-since = 2010
+since = 2022
 enableTwemoji = true
 colorScheme = "auto"
 hidecolorschemetoggle = false
@@ -37,7 +37,7 @@ author = "authors"
 # Social links
 [[params.social]]
 name = "Github"
-icon = "fa fa-github fa-2x"
+icon = "images/google_play_store.png"
 weight = 1
 url = "https://github.com/kksudo/"
 target = "_blank"

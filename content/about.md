@@ -6,7 +6,10 @@ aliases = ["about", "about-us", "about-deftfun", "contact"]
 +++
 
 
-[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/aab758e9-2059-4928-a262-2eeb0b2f4d3f?source=linked_in_profile), teaches at [Otus](https://otus.ru/lessons/infrastrukturnaya-platforma-na-osnove-kubernetes/), Co-author writer of courses for the [SkillFactory school](https://skillfactory.ru/devops-engineer).
+[OUR CEO](https://www.linkedin.com/in/sergei-golitsyn/), 
+the best UI/UX from [Tati](https://instagram.com/zamshevay___mouse?igshid=YmMyMTA2M2Y=), 
+and we are believe in AR technology. 
+[Pitch deck](https://pitch.com/public/dfb4f791-d2e8-4215-8c98-66b098c4924c).
 
 ---
 I'm a member of "I want to know everything" and "I'm happy to share what I've already learned" groups.
