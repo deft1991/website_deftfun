@@ -45,7 +45,7 @@ target = "_blank"
 name = "Facebook"
 icon = "fa fa-facebook fa-2x"
 weight = 2
-url = "https://www.facebook.com/profile.php?id=100005421847157"
+url = "https://www.facebook.com/DEFTFUN"
 target = "_blank"
 #[[params.social]]
 #name = "Gitlab"
