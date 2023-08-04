@@ -13,7 +13,7 @@ Lead our company with a strong emphasis on innovation and gaming expertise, driv
 
 and we are believe in AR technology.
 
-Linked image: [![LinkedIn](/linkedIn.png)](https://www.linkedin.com/in/sergei-golitsyn/)
+Linked image: [![LinkedIn](/linkedin@2x.png)](https://www.linkedin.com/in/sergei-golitsyn/)
 
 ---
 Life is a game. Carpe Diem
