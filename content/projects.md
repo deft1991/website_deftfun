@@ -9,7 +9,7 @@ aliases = ["projects", "our-projects", "projects-deftfun"]
 > We make apps with passion and our purpose is to deliver a unique gaming experience 
 > to millions of players all around the globe.
 
-## Our Games
+## Our Applications
 
 ### AI Health
 
