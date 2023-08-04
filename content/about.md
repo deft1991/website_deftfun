@@ -13,13 +13,9 @@ Lead our company with a strong emphasis on innovation and gaming expertise, driv
 
 and we are believe in AR technology.
 
+Linked image: [![LinkedIn](/linkedIn.png)](https://www.linkedin.com/in/sergei-golitsyn/)
 
 ---
 Life is a game. Carpe Diem
 
-[[params.social]]
-name = "deft@deftfun.tech"
-icon = "fa fa-envelope fa-2x"
-weight = 6
-url = "mailto:deft@deftfun.tech"
-target = "_blank"
+
