@@ -11,8 +11,7 @@ aliases = ["projects", "our-projects", "projects-deftfun"]
 
 ## Our Games
 
-<p style="text-align: center;">### AI Health</p>
-
+### AI Health
 
 ![AI Health Picture](/screen_program.png)
 
