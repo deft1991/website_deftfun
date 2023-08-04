@@ -15,7 +15,11 @@ aliases = ["projects", "our-projects", "projects-deftfun"]
 
 ![AI Health Picture](/screen_program.png)
 
-**Provide** an **affordable** and **personalized** mobile app that utilizes **AI technology** from **OpenAI** and **ChatGPT** to deliver tailored nutrition, exercise, and wellness recommendations.
+    Welcome to the future of fitness! 
+
+Our cutting-edge fitness app harnesses the power of **modern AI** technology to **generate** a customized **nutrition program**, **daily training plan**, and **daily meal recommendations** based on your unique parameters.
+
+Whether you're looking to build muscle, burn fat, or simply improve your overall health, our app has you covered. With advanced algorithms that take into account your age, weight, height, gender, and fitness goals, our app creates a personalized program that's tailored to your needs
 
 [Google Play](https://play.google.com/store/apps/details?id=com.deft.aihealth)
 

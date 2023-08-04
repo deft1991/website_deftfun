@@ -6,8 +6,8 @@ aliases = ["about", "about-us", "about-deftfun", "contact"]
 +++
 
 ![CEO Picture](/me.jpg)
-Our CEO Experienced Software Engineer: over 9 YoE in building scalable systems and resolving high-load challenges. 
-Demonstrated success in delivering projects on time with a focus on industry-leading practices;
+Our CEO is an experienced software engineer with a passion for creating games. 
+Lead our company with a strong emphasis on innovation and gaming expertise, driving our commitment to delivering exceptional gaming experiences.
 
 [Our CEO LinkedIn](https://www.linkedin.com/in/sergei-golitsyn/), 
 
@@ -16,3 +16,10 @@ and we are believe in AR technology.
 
 ---
 Life is a game. Carpe Diem
+
+[[params.social]]
+name = "deft@deftfun.tech"
+icon = "fa fa-envelope fa-2x"
+weight = 6
+url = "mailto:deft@deftfun.tech"
+target = "_blank"
