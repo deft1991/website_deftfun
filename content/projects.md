@@ -6,7 +6,7 @@ date = "2023-08-04T12:43:38+03:00"
 aliases = ["projects", "our-projects", "projects-deftfun"]
 +++
 
-{{ $image := .Resources.GetMatch "/images/me-crazy.jpg" }}
+{{ $image := .Resources.GetMatch "/screen_program.png" }}
 <img src="{{ $image.RelPermalink }}" width="200px" height="200px" align="left">
 some text floating around the image
 
