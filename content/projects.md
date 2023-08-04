@@ -6,6 +6,10 @@ date = "2023-08-04T12:43:38+03:00"
 aliases = ["projects", "our-projects", "projects-deftfun"]
 +++
 
+We make apps with passion and our purpose is to deliver a unique gaming experience to millions of players all around the globe.
+
+## Our Games
+
 ### AI Health
 
 ![AI Health Picture](/screen_program.png)
@@ -16,7 +20,7 @@ aliases = ["projects", "our-projects", "projects-deftfun"]
 
 [AI Health Pitch deck](https://pitch.com/public/dfb4f791-d2e8-4215-8c98-66b098c4924c).
 
-### Spinner King
+### Spinner King (in development)
 
 ![Spinner King Picture](/spinnerKing.jpg)
 
