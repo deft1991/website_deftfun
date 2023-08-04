@@ -6,12 +6,6 @@ date = "2023-08-04T12:43:38+03:00"
 aliases = ["projects", "our-projects", "projects-deftfun"]
 +++
 
-{{ $image := .Resources.GetMatch "/screen_program.png" }}
-<img src="{{ $image.RelPermalink }}" width="200px" height="200px" align="left">
-some text floating around the image
-
-A "newline". This text doesn't float anymore, is left-aligned.
-
 > We make apps with passion and our purpose is to deliver a unique gaming experience 
 > to millions of players all around the globe.
 
