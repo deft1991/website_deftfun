@@ -1,9 +1,10 @@
 +++
 title = "Projects"
-description = "Few words about DEFT FUN INC. projects"
-date = "2023-08-04T12:43:38+03:00"
-aliases = ["projects", "our-projects", "projects-deftfun"]
+slug = "projects"
 +++
+
+Nothing to see here... Move along!
+
 AI Health
 ![AI Health Picture](/screen_program.png)
 
