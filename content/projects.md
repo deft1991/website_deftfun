@@ -6,10 +6,9 @@ date = "2023-08-04T12:43:38+03:00"
 aliases = ["projects", "our-projects", "projects-deftfun"]
 +++
 
-<img src="/images/me-crazy.jpg" align="left" width="200px" width="200px"/>
+{{ $image := .Resources.GetMatch "/images/me-crazy.jpg" }}
+<img src="{{ $image.RelPermalink }}" width="200px" height="200px" align="left">
 some text floating around the image
-
-<br clear="left"/>
 
 A "newline". This text doesn't float anymore, is left-aligned.
 
