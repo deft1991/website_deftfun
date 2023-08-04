@@ -5,7 +5,7 @@ date = "2022-11-08T12:43:38+03:00"
 aliases = ["about", "about-us", "about-deftfun", "contact"]
 +++
 
-![CEO Picture](/me.jpg)
+![CEO Picture](/me.jpg?w=300&h=600)
 Our CEO is an experienced software engineer with a passion for creating games. 
 Lead our company with a strong emphasis on innovation and gaming expertise, driving our commitment to delivering exceptional gaming experiences.
 
