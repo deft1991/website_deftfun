@@ -6,6 +6,13 @@ date = "2023-08-04T12:43:38+03:00"
 aliases = ["projects", "our-projects", "projects-deftfun"]
 +++
 
+<img src="/images/me-crazy.jpg" align="left" width="200px" width="200px"/>
+some text floating around the image
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
+
 > We make apps with passion and our purpose is to deliver a unique gaming experience 
 > to millions of players all around the globe.
 
