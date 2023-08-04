@@ -6,7 +6,7 @@ date = "2023-08-04T12:43:38+03:00"
 aliases = ["projects", "our-projects", "projects-deftfun"]
 +++
 
-AI Health
+### AI Health
 
 ![AI Health Picture](/screen_program.png)
 
@@ -16,11 +16,11 @@ AI Health
 
 [AI Health Pitch deck](https://pitch.com/public/dfb4f791-d2e8-4215-8c98-66b098c4924c).
 
-Spinner King
+### Spinner King
 
 ![Spinner King Picture](/spinnerKing.jpg)
 
-Spinner King is an augmented reality (AR) butler that allows players to engage in real-time battles with real opponents. Augmented Reality immerses players in the game world, making them feel like a part of a different reality. There are several game modes available, including CO-OP. Players must find an arena location, choose a spinner of their preferred type, and enter into battle with a real opponent. During the battle, various boosters with different effects appear.
+Spinner King is an **augmented reality (AR) battler** that allows players to engage in **real-time battles** with **real opponents**. Augmented Reality immerses players in the game world, making them feel like a part of a different reality. There are several game modes available, including CO-OP. Players must find an arena location, choose a spinner of their preferred type, and enter into battle with a real opponent. During the battle, various boosters with different effects appear.
 
 Key features:
 
