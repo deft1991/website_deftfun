@@ -14,6 +14,8 @@ AI Health
 
 [Google Play](https://play.google.com/store/apps/details?id=com.deft.aihealth)
 
+[AI Health Pitch deck](https://pitch.com/public/dfb4f791-d2e8-4215-8c98-66b098c4924c).
+
 Spinner King
 ![Spinner King Picture](/spinnerKing.jpg)
 

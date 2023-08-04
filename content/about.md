@@ -13,7 +13,6 @@ Demonstrated success in delivering projects on time with a focus on industry-lea
 
 and we are believe in AR technology.
 
-[Pitch deck](https://pitch.com/public/dfb4f791-d2e8-4215-8c98-66b098c4924c).
 
 ---
 Life is a game. Carpe Diem
