@@ -7,6 +7,7 @@ aliases = ["projects", "our-projects", "projects-deftfun"]
 +++
 
 AI Health
+
 ![AI Health Picture](/screen_program.png)
 
 **Provide** an **affordable** and **personalized** mobile app that utilizes **AI technology** from **OpenAI** and **ChatGPT** to deliver tailored nutrition, exercise, and wellness recommendations.
