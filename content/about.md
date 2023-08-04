@@ -16,8 +16,8 @@ and we are believe in AR technology.
 [![LinkedIn](/linkedin@2x.png?w=150&h=150)](https://www.linkedin.com/in/sergei-golitsyn/)
 [![GirHub](/github@2x.png?w=150&h=150)](https://github.com/deft1991)
 [![Twitter](/twitter@2x.png?w=150&h=150)](https://twitter.com/GolitsynSergei)
-[![YouTube](/twitter@2x.png?w=150&h=150)](https://www.youtube.com/@crack_code_interview/featured)
-[![Instagram](/twitter@2x.png?w=150&h=150)](https://www.instagram.com/_deft__/)
+[![YouTube](/youtube@2x.png?w=150&h=150)](https://www.youtube.com/@crack_code_interview/featured)
+[![Instagram](/instagram@2x.png?w=150&h=150)](https://www.instagram.com/_deft__/)
 
 ---
 Life is a game. Carpe Diem
