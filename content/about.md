@@ -5,10 +5,10 @@ date = "2022-11-08T12:43:38+03:00"
 aliases = ["about", "about-us", "about-deftfun", "contact"]
 +++
 
-
-[Our CEO](https://www.linkedin.com/in/sergei-golitsyn/), 
-
-the best UI/UX from [Tati](https://instagram.com/zamshevay___mouse?igshid=YmMyMTA2M2Y=),
+![CEO Picture](/me.jpg)
+Our CEO Experienced Software Engineer: over 9 YoE in building scalable systems and resolving high-load challenges. 
+Demonstrated success in delivering projects on time with a focus on industry-leading practices;
+[Our CEO LinkedIn](https://www.linkedin.com/in/sergei-golitsyn/), 
 
 and we are believe in AR technology.
 
