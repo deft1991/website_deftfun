@@ -1,9 +1,10 @@
 +++
 title = "Projects"
 slug = "projects"
+description = "Few words about DEFT FUN INC. projects"
+date = "2023-08-04T12:43:38+03:00"
+aliases = ["projects", "our-projects", "projects-deftfun"]
 +++
-
-Nothing to see here... Move along!
 
 AI Health
 ![AI Health Picture](/screen_program.png)
@@ -13,7 +14,7 @@ AI Health
 [Google Play](https://play.google.com/store/apps/details?id=com.deft.aihealth)
 
 Spinner King
-![Spinner King Picture](/2023-08-03 18.33.01.jpg)
+![Spinner King Picture](/spinnerKing.jpg)
 
 Spinner King is an augmented reality battler that lets you fight in real time against real opponents.
 
