@@ -6,7 +6,8 @@ date = "2023-08-04T12:43:38+03:00"
 aliases = ["projects", "our-projects", "projects-deftfun"]
 +++
 
-> We make apps with passion and our purpose is to deliver a unique gaming experience to millions of players all around the globe.
+> We make apps with passion and our purpose is to deliver a unique gaming experience 
+> to millions of players all around the globe.
 
 ## Our Games
 

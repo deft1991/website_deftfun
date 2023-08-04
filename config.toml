@@ -20,6 +20,7 @@ description = "DEFT FUN INC. is an innovative mobile game development company at
 keywords = "businesscard,company,games,deftfun,sergei,golitsyn"
 gravatar = "deft1991@gmail.com"
 favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
 
 since = 2022
 enableTwemoji = true
