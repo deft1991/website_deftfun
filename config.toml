@@ -15,7 +15,7 @@ enableGitInfo = true
 
 [params]
 author = "DEFT FUN INC."
-info = ["We are making games"]
+info = ["DEFT FUN INC. is an innovative mobile game development company at the forefront of merging augmented reality (AR) and AI health technologies. We create immersive and interactive mobile games that harness the power of AR to deliver captivating gameplay experiences. Additionally, our games incorporate AI health features, promoting well-being and healthy habits among players. With a passion for cutting-edge technology and gaming, we aim to revolutionize the mobile gaming industry and enhance players' overall well-being through our unique and engaging creations."]
 description = "DEFT FUN's web page"
 keywords = "businesscard,company,games,deftfun,sergei,golitsyn"
 gravatar = "deft1991@gmail.com"
